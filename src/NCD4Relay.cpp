@@ -1,5 +1,5 @@
-#include "NCD4Relay.h"
 #include "application.h"
+#include "NCD4Relay.h"
 
 //Comment line below out to turn off Serial logging
 #define LOGGING
