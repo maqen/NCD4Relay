@@ -55,7 +55,7 @@ delay(500);
 }
 ```
 
-###Public accessible methods
+### Public accessible methods
 ```cpp
 void setAddress(int a0, int a1, int a2);
 ```
