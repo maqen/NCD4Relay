@@ -8,12 +8,12 @@ The intention of this library is to make use of the NCD 4 channel relay controll
 NCD has been designing and manufacturing computer control products since 1995.  We have specialized in hardware design and manufacturing of Relay controllers for 20 years.  We pride ourselves as being the industry leader of computer control relay products.  Our products are proven reliable and we are very excited to support Particle.  For more information on NCD please visit www.controlanything.com 
 
 ### Requirements
-- NCD 4 Channel Particle Core/Photon Compatible Relay board
-- Particle Core/Photon module
-- Knowledge base for developing and programming with Particle Core/Photon modules.
+- NCD 4 Channel Particle Core/Photon/Electron Compatible Relay board
+- Particle Core/Photon/Electron module
+- Knowledge base for developing and programming with Particle Core/Photon/Electron modules.
 
 ### Version
-1.0.0
+0.0.5
 
 ### How to use this library
 
