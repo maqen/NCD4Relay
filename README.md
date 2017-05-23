@@ -149,7 +149,7 @@ byte readAllInputs();
 >returned if an error has occured (generally due to lack of communciation with controller).
 
 
-###Public accessible variables
+### Public accessible variables
 ```cpp
 bool initialized;
 ```
